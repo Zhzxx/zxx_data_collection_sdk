@@ -1,0 +1,6 @@
+framework module zxx_data_collection_sdk {
+  umbrella header "zxx_data_collection_sdk.h"
+
+  export *
+  module * { export * }
+}
