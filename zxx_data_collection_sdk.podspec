@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "zxx_data_collection_sdk"
-  s.version      = "0.0.1.E"
+  s.version      = "0.0.1"
   s.summary      = "zxx_data_collection_sdk的一个简单示范工程."
 
   s.description  = <<-DESC
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
   s.license      = "MIT"
 
-  s.author       = { "zxxiosmail@163.com" }
+  s.author       = { "ZXX" => "zxxiosmail@163.com" }
 
   s.platform     = :ios, "12.0"
 
