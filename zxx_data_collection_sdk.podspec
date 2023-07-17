@@ -26,11 +26,13 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/Zhzxx/zxx_data_collection_sdk.git", :tag => "#{s.version}" }
 
-  s.preserve_paths = 'Demos', '.cocoapods.yml', "#{s.name}.podspec.json", "#{s.name}/src/oc/module.modulemap", "#{s.name}/src/oc/zxx_data_collection_sdkOCHeader.h"
+#  s.preserve_paths = 'Demos', '.cocoapods.yml', "#{s.name}.podspec.json", "#{s.name}/src/oc/module.modulemap", "#{s.name}/src/oc/zxx_data_collection_sdkOCHeader.h"
 
   s.swift_versions = ['5.0']
   
   s.user_target_xcconfig = { 'LIBRARY_SEARCH_PATHS' => '$(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME) $(TOOLCHAIN_DIR)/usr/lib/swift-5.0/$(PLATFORM_NAME)' }
+
+
   s.pod_target_xcconfig = {
     # 路径根据实际情况进行引用，必须保证路径是正确的
     'SWIFT_INCLUDE_PATHS' => ["$(PODS_ROOT)/#{s.name}/src/oc", "$(PODS_TARGET_SRCROOT)/#{s.name}/src/oc"]
@@ -47,5 +49,6 @@ Pod::Spec.new do |s|
 #    core.resource_bundles = {
 #      "#{s.name}" => ["#{s.name}/Resources/**/*"]
 #    }
+
   end
 end
