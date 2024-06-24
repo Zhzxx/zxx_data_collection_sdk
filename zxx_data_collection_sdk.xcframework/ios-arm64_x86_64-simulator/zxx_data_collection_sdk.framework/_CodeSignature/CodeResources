@@ -8,26 +8,67 @@
 		<data>
 		2/6Cuf/+ZMU8DP/1iGQR6kUKHkE=
 		</data>
-		<key>Headers/ZXXCommon.h</key>
+		<key>Headers/ZXXSSCommon.h</key>
 		<data>
-		/vdwAmQ/py9MgeXsNItqXIZVn6A=
+		Gzcn5km1Xm3EvgxkNhOfeHjk1bE=
 		</data>
-		<key>Headers/ZXXDataCollection.h</key>
+		<key>Headers/ZXXSSConfigOption.h</key>
 		<data>
-		im6hZOfL4U8oPoVNR4JRxyGE7F4=
+		6NIKBRfRY4DQHgn9ejVMPmjJgJU=
+		</data>
+		<key>Headers/ZXXSSDataCollection.h</key>
+		<data>
+		yfe41zc9y4CzkuT/tA7HRH7O6xI=
 		</data>
 		<key>Headers/zxx_data_collection_sdk.h</key>
 		<data>
-		I8t8u5l5lwC0TFWeqd8/3XTIor4=
+		VGxQMyhDt6Z+8+YzYx7bvObxZTY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Eowe7zGiFBiGuypsROuMizuQZuU=
+		MHeKXrqavdI0XPslO9aSf46kBwE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		jMLRfidxFFbHvEZrSrU+z2mVguA=
+		9j/WA8/18xBuWN8m86klyFj31sE=
 		</data>
+		<key>SensorsAnalyticsSDK.bundle/sa_autotrack_gestureview_blacklist.json</key>
+		<data>
+		X3UoGxCHcCB4vIGx6f35wHiq2O8=
+		</data>
+		<key>SensorsAnalyticsSDK.bundle/sa_autotrack_viewcontroller_blacklist.json</key>
+		<data>
+		1A14mXZdEeXxcwYcoLUpEw76ryU=
+		</data>
+		<key>SensorsAnalyticsSDK.bundle/sa_mcc_mnc_mini.json</key>
+		<data>
+		2Ke7Q/yY/d1AVyfbP2A+Sshjfs0=
+		</data>
+		<key>SensorsAnalyticsSDK.bundle/sa_visualized_path.json</key>
+		<data>
+		392CH8xxFjSTWmF5UarAPDqHlhU=
+		</data>
+		<key>SensorsAnalyticsSDK.bundle/sensors_analytics_flow.json</key>
+		<data>
+		VqLyakkrd+Xf15yTLVsXWPFMkfM=
+		</data>
+		<key>SensorsAnalyticsSDK.bundle/sensors_analytics_node.json</key>
+		<data>
+		LmMPLM8+NnCFjjHpLozLuegD4gI=
+		</data>
+		<key>SensorsAnalyticsSDK.bundle/sensors_analytics_task.json</key>
+		<data>
+		UkLtICmUkxkK2CVSOG+odPqSiUk=
+		</data>
+		<key>SensorsAnalyticsSDK.bundle/zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SQxEFCCTevU4gg9F4Np/XYIz+bI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -42,49 +83,150 @@
 			0OEqDWCPQoDMCeJ8kgPKJ1UdjmLvtwjdWEKTkMPLnsk=
 			</data>
 		</dict>
-		<key>Headers/ZXXCommon.h</key>
+		<key>Headers/ZXXSSCommon.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/vdwAmQ/py9MgeXsNItqXIZVn6A=
+			Gzcn5km1Xm3EvgxkNhOfeHjk1bE=
 			</data>
 			<key>hash2</key>
 			<data>
-			jcu6IcZEpgPXx0bO7X6pgdFhwYisjAD0b7dJtzWRG+o=
+			duEOu8BkcXGh/gMs36l1unuP0HFerptwXPfZil52Qjo=
 			</data>
 		</dict>
-		<key>Headers/ZXXDataCollection.h</key>
+		<key>Headers/ZXXSSConfigOption.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			im6hZOfL4U8oPoVNR4JRxyGE7F4=
+			6NIKBRfRY4DQHgn9ejVMPmjJgJU=
 			</data>
 			<key>hash2</key>
 			<data>
-			gICnkipQn+F9gyXmfK5Beu8QDdVX3Qw375kWml9u41w=
+			hHBAfm95LH/N5ZkZhJp8WYkjyaq9WkDqiFhTwXJ9MOg=
+			</data>
+		</dict>
+		<key>Headers/ZXXSSDataCollection.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yfe41zc9y4CzkuT/tA7HRH7O6xI=
+			</data>
+			<key>hash2</key>
+			<data>
+			0Bzc3cU0bSlgKyLMBnyQcAxpMuV17gO2yUYC6PIi8lo=
 			</data>
 		</dict>
 		<key>Headers/zxx_data_collection_sdk.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I8t8u5l5lwC0TFWeqd8/3XTIor4=
+			VGxQMyhDt6Z+8+YzYx7bvObxZTY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Kf9NUVfbbMio2FHaFsh696ljwrOIFR8n8yyvui5UKpM=
+			GSQYjWULU0nu1w9pj5TJub7l+e8CpeLFZe/QIDi4mko=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jMLRfidxFFbHvEZrSrU+z2mVguA=
+			9j/WA8/18xBuWN8m86klyFj31sE=
 			</data>
 			<key>hash2</key>
 			<data>
-			eWd1pp4xVZ9GxX330YK5eDhQatd4clvX9S0XKSUIQCY=
+			WofPSNdTqR90HdUk7NF314uvqAI0Rl+VAws/ebfpIdg=
 			</data>
+		</dict>
+		<key>SensorsAnalyticsSDK.bundle/sa_autotrack_gestureview_blacklist.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			X3UoGxCHcCB4vIGx6f35wHiq2O8=
+			</data>
+			<key>hash2</key>
+			<data>
+			2v4J4uMkuxU74BDpJN4rJrsyjoNieuR2RYgQlYPLUXk=
+			</data>
+		</dict>
+		<key>SensorsAnalyticsSDK.bundle/sa_autotrack_viewcontroller_blacklist.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1A14mXZdEeXxcwYcoLUpEw76ryU=
+			</data>
+			<key>hash2</key>
+			<data>
+			yMqBsIxW0tU+Z5a3JUbTdFXBRw2OreCLZx/UQBflxd4=
+			</data>
+		</dict>
+		<key>SensorsAnalyticsSDK.bundle/sa_mcc_mnc_mini.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2Ke7Q/yY/d1AVyfbP2A+Sshjfs0=
+			</data>
+			<key>hash2</key>
+			<data>
+			UsIMhJB8pOmVj1watYy5Gq2+tMaNnFYQGKuvC6Xaf4Q=
+			</data>
+		</dict>
+		<key>SensorsAnalyticsSDK.bundle/sa_visualized_path.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			392CH8xxFjSTWmF5UarAPDqHlhU=
+			</data>
+			<key>hash2</key>
+			<data>
+			v/TWWhDqzRZDhiGAFMvldaVq5gfEH5yxHFI4mO7tO68=
+			</data>
+		</dict>
+		<key>SensorsAnalyticsSDK.bundle/sensors_analytics_flow.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VqLyakkrd+Xf15yTLVsXWPFMkfM=
+			</data>
+			<key>hash2</key>
+			<data>
+			rTvMJMznNBn31VeBfaH2x+NPQe4bfHTbs9aN7WLLSDo=
+			</data>
+		</dict>
+		<key>SensorsAnalyticsSDK.bundle/sensors_analytics_node.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LmMPLM8+NnCFjjHpLozLuegD4gI=
+			</data>
+			<key>hash2</key>
+			<data>
+			ege5NMNFMhI0GwEHAfQNGe5f/wTva1Tsa1KsCP5WTsc=
+			</data>
+		</dict>
+		<key>SensorsAnalyticsSDK.bundle/sensors_analytics_task.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UkLtICmUkxkK2CVSOG+odPqSiUk=
+			</data>
+			<key>hash2</key>
+			<data>
+			lJU2DAsnu7Z7LnIdZJ+lt3Dj9kZ5Mt9n/epfOuHXgXs=
+			</data>
+		</dict>
+		<key>SensorsAnalyticsSDK.bundle/zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SQxEFCCTevU4gg9F4Np/XYIz+bI=
+			</data>
+			<key>hash2</key>
+			<data>
+			BTeYZVoih7yNFJUAsT5P7SAHJKorQiHPk+vi4n9NTfg=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>
