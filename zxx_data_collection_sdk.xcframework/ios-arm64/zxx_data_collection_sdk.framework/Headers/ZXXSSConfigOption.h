@@ -18,13 +18,13 @@ NS_ASSUME_NONNULL_BEGIN
 
 /// 非必传，在控制台打印埋点日志，默认NO：不打印
 @property (nonatomic, assign) BOOL enableLog;
-// 非必传，是否开启 app 代理上报。默认true
+/// 非必传，Webview桥接是否开启。默认true
 @property (nonatomic, assign) BOOL bridge;
-// 非必传，是否进行 session 切割。默认 YES，，会进行 session 切割；设置 NO，不会进行 session 切割
+/// 非必传，是否进行 session 切割。默认 YES，，会进行 session 切割；设置 NO，不会进行 session 切割
 @property (nonatomic, assign,readonly) BOOL enableSession;
-// 非必传，会话超时时间，单位 ms（默认 60 * 60 * 1000，即：60分钟），超过该时间会重新生成 event_session_id
+/// 非必传，session 切割事件最大间隔时长，设置范围为正整数，单位为秒S，（默认 5 * 60 ，即：5分钟），超过该时间会重新生成 event_session_id
 @property (nonatomic, assign) NSUInteger sessionTimeout;
-// 非必传，两次数据发送的最小时间间隔，单位毫秒，默认 1 * 60 *1000，即1分钟
+/// 非必传，两次数据发送的最小时间间隔，单位毫秒，默认 1 * 60 *1000，即1分钟
 @property (nonatomic, assign) NSUInteger flushInterval;
 
 @end

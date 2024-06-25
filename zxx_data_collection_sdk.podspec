@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "zxx_data_collection_sdk"
-  s.version      = "0.0.1.S"
+  s.version      = "0.0.2.S"
   s.summary      = "zxx_data_collection_sdk的一个简单示范工程."
 
   s.description  = <<-DESC
